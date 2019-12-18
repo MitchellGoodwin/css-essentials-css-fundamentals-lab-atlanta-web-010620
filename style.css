@@ -30,4 +30,7 @@ nav a {
   background-color: gray;
 }
 
-div
+#details {
+  display: block;
+  float: left;
+}
