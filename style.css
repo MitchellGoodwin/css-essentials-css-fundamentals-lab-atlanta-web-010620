@@ -22,6 +22,8 @@ figcaption {
   width: 800px;
   text-align: center;
   vertical-align: middle;
+  position: absolute;
+  left: 50%;
 }
 
 nav a {
